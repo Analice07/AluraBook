@@ -1,2 +1,1 @@
-# AluraBook
-AluraBook
+# alura-books
